@@ -1,0 +1,2 @@
+Programas criados no sistema operativo Linux Ubuntu 16.04.4 LTS
+Utilizada linguagem Java versão 1.8.0_151
